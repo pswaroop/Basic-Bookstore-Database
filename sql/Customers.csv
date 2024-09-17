@@ -1,0 +1,47 @@
+customer_id,name,email,address,phone
+1,"Alice Johnson",alice.johnson@example.com,"123 Main St",555-1234
+2,"Bob Smith",bob.smith@example.com,"456 Elm St",555-5678
+47,"John Doe",john.doe@example.com,"123 Elm Street, Springfield",555-1234
+48,"Jane Smith",jane.smith@example.com,"456 Oak Avenue, Metropolis",555-5678
+49,"Alice Johnson",alice.johnson2@example.com,"789 Pine Road, Smalltown",555-8765
+50,"Bob Brown",bob.brown@example.com,"101 Maple Street, Big City",555-4321
+51,"Carol Davis",carol.davis@example.com,"202 Birch Lane, Capital City",555-6789
+52,"David Wilson",david.wilson@example.com,"303 Cedar Drive, Suburbia",555-3456
+53,"Emma Miller",emma.miller@example.com,"404 Elm Street, Lakeview",555-7890
+54,"Frank Moore",frank.moore@example.com,"505 Oak Avenue, Ridgewood",555-6543
+55,"Grace Lee",grace.lee@example.com,"606 Pine Road, Valley Town",555-2109
+56,"Hank Taylor",hank.taylor@example.com,"707 Maple Street, River City",555-0987
+57,"Ivy Anderson",ivy.anderson@example.com,"808 Birch Lane, Mountain View",555-3456
+58,"Jack Thomas",jack.thomas@example.com,"909 Cedar Drive, Forest Hill",555-8765
+59,"Kara Jackson",kara.jackson@example.com,"1010 Elm Street, Hillside",555-4321
+60,"Liam White",liam.white@example.com,"1111 Oak Avenue, Greenwood",555-5678
+61,"Mia Harris",mia.harris@example.com,"1212 Pine Road, Meadowbrook",555-6789
+62,"Noah Clark",noah.clark@example.com,"1313 Maple Street, Lakewood",555-8765
+63,"Olivia Lewis",olivia.lewis@example.com,"1414 Birch Lane, Springdale",555-9876
+64,"Paul Robinson",paul.robinson@example.com,"1515 Cedar Drive, Oceanview",555-4321
+65,"Quinn Hall",quinn.hall@example.com,"1616 Elm Street, Crestwood",555-2109
+66,"Riley Walker",riley.walker@example.com,"1717 Oak Avenue, Shady Grove",555-3456
+67,"Sophie Young",sophie.young@example.com,"1818 Pine Road, Evergreen",555-5678
+68,"Tom Allen",tom.allen@example.com,"1919 Maple Street, Harborview",555-6789
+69,"Ursula King",ursula.king@example.com,"2020 Birch Lane, Lakeside",555-8765
+70,"Victor Scott",victor.scott@example.com,"2121 Cedar Drive, Meadowlands",555-0987
+71,"Wendy Wright",wendy.wright@example.com,"2222 Elm Street, Woodside",555-3456
+72,"Xander Green",xander.green@example.com,"2323 Oak Avenue, Glenwood",555-4321
+73,"Yara Adams",yara.adams@example.com,"2424 Pine Road, Brookside",555-5678
+74,"Zane Nelson",zane.nelson@example.com,"2525 Maple Street, Rosedale",555-6789
+75,"Anna Carter",anna.carter@example.com,"2626 Birch Lane, Hillsborough",555-8765
+76,"Ben Martin",ben.martin@example.com,"2727 Cedar Drive, Clearview",555-0987
+77,"Clara Mitchell",clara.mitchell@example.com,"2828 Elm Street, Forest Grove",555-3456
+78,"Dan Parker",dan.parker@example.com,"2929 Oak Avenue, Valley Ridge",555-4321
+79,"Ella Martinez",ella.martinez@example.com,"3030 Pine Road, Lakeside",555-5678
+80,"Felix Evans",felix.evans@example.com,"3131 Maple Street, Harbor Heights",555-6789
+81,"Gina Phillips",gina.phillips@example.com,"3232 Birch Lane, Riverwood",555-8765
+82,"Harry Collins",harry.collins@example.com,"3333 Cedar Drive, Sunset Hills",555-0987
+83,"Iris Campbell",iris.campbell@example.com,"3434 Elm Street, Pinecrest",555-3456
+84,"Jackie Howard",jackie.howard@example.com,"3535 Oak Avenue, Crestwood",555-4321
+85,"Kevin Ramirez",kevin.ramirez@example.com,"3636 Pine Road, Broadview",555-5678
+86,"Lydia Evans",lydia.evans@example.com,"3737 Maple Street, Kingswood",555-6789
+87,"Mason Green",mason.green@example.com,"3838 Birch Lane, Eastside",555-8765
+88,"Nina Allen",nina.allen@example.com,"3939 Cedar Drive, Westwood",555-0987
+89,"Oscar Cooper",oscar.cooper@example.com,"4040 Elm Street, Lakeside",555-3456
+90,"Paula Baker",paula.baker@example.com,"4141 Oak Avenue, Fairview",555-4321

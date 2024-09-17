@@ -1,0 +1,53 @@
+book_id,title,author_id,price,publication_date,stock
+1,"Harry Potter and the Philosopher's Stone",1,19.99,1997-06-26,100
+2,"A Game of Thrones",2,29.99,1996-08-06,50
+53,"Pride and Prejudice",1,12.99,1813-01-28,30
+54,"Great Expectations",2,15.99,1861-08-01,25
+55,"Harry Potter and the Sorcerer's Stone",3,20.99,1997-06-26,50
+56,1984,4,18.99,1949-06-08,40
+57,"The Hobbit",5,14.99,1937-09-21,35
+58,"The Great Gatsby",6,10.99,1925-04-10,20
+59,"Murder on the Orient Express",7,11.99,1934-01-01,45
+60,"Adventures of Huckleberry Finn",8,9.99,1884-12-10,50
+61,"The Shining",9,16.99,1977-01-28,20
+62,"The Old Man and the Sea",10,13.99,1952-09-01,30
+63,"The Catcher in the Rye",11,12.99,1951-07-16,25
+64,"Moby Dick",12,14.99,1851-10-18,30
+65,"War and Peace",13,19.99,1869-03-01,10
+66,Slaughterhouse-Five,14,13.49,1969-03-31,15
+67,"Fahrenheit 451",15,11.49,1953-10-19,40
+68,"The Handmaid's Tale",16,15.49,1985-09-01,25
+69,"The Dubliners",17,14.99,1914-06-15,30
+70,"The Sound and the Fury",18,17.99,1929-10-01,20
+71,"The Grapes of Wrath",19,16.49,1939-04-14,25
+72,"Crime and Punishment",20,18.49,1867-01-01,15
+73,"One Hundred Years of Solitude",21,20.49,1967-05-30,20
+74,Atonement,22,12.49,2001-09-05,30
+75,"The Firm",23,14.49,1991-06-01,25
+76,"The Lincoln Lawyer",24,13.99,2005-03-01,35
+77,"Angels & Demons",25,17.99,2000-03-28,40
+78,"A is for Alibi",26,11.49,1982-01-01,30
+79,"Invisible Man",27,16.49,1952-04-14,20
+80,"The World According to Garp",28,14.99,1978-10-01,25
+81,"The Color Purple",29,13.99,1982-11-01,30
+82,"Midnight's Children",30,18.99,1981-09-01,20
+83,"American Gods",31,19.49,2001-06-19,15
+84,"Are You There God? It's Me, Margaret",32,10.99,1970-05-01,40
+85,"The Bell Jar",33,12.99,1963-01-14,25
+86,"The Stone Angel",34,14.99,1964-05-01,20
+87,"No Country for Old Men",35,15.99,2005-07-01,30
+88,"The Left Hand of Darkness",36,17.49,1969-03-01,20
+89,Outlander,37,18.99,1991-06-01,25
+90,Twilight,38,14.49,2005-10-05,35
+91,"The Neverending Story",39,13.49,1979-09-01,30
+92,"A Game of Thrones",40,20.99,1996-08-06,15
+93,"Cloud Atlas",41,17.99,2004-10-27,20
+94,"Eat, Pray, Love",42,12.49,2006-02-01,25
+95,"The Name of the Wind",43,15.49,2007-03-27,30
+96,"The Casual Vacancy",44,14.99,2012-09-27,20
+97,"Never Let Me Go",45,13.99,2005-03-02,30
+98,"The Road",46,16.99,2006-09-26,20
+99,"The Secret History",47,18.49,1992-09-01,15
+100,"The Picture of Dorian Gray",48,12.99,1890-07-01,30
+101,Rebecca,49,14.49,1938-04-01,25
+102,"The Da Vinci Code",48,19.99,2003-03-18,20

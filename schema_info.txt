@@ -1,0 +1,45 @@
+Database Schema:
+
+Tables:
+
+1. Authors
+
+author_id (Primary Key, INT, Auto Increment)
+name (VARCHAR)
+birthdate (DATE)
+
+
+2. Books
+
+book_id (Primary Key, INT, Auto Increment)
+title (VARCHAR)
+author_id (Foreign Key, INT)
+price (DECIMAL)
+publication_date (DATE)
+stock (INT)
+
+
+3. Customers
+
+customer_id (Primary Key, INT, Auto Increment)
+name (VARCHAR)
+email (VARCHAR, Unique)
+address (VARCHAR)
+phone (VARCHAR)
+
+
+4. Orders
+
+order_id (Primary Key, INT, Auto Increment)
+customer_id (Foreign Key, INT)
+order_date (DATE)
+status (VARCHAR)
+
+
+5. OrderDetails
+
+order_detail_id (Primary Key, INT, Auto Increment)
+order_id (Foreign Key, INT)
+book_id (Foreign Key, INT)
+quantity (INT)
+price (DECIMAL)
