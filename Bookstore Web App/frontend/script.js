@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         try {
             const response = await fetch(`http://localhost:3000/${endpoint}`);
             const data = await response.json();
+            console.log(`Data from ${endpoint}:`, data); // Log the fetched data
             const list = document.getElementById(elementId);
             list.innerHTML = '';
             data.forEach(item => {
@@ -24,3 +25,4 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchAndDisplay('orders', 'orders-list');
     fetchAndDisplay('orderdetails', 'orderdetails-list');
 });
+
