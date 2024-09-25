@@ -5,22 +5,91 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bookstore</title>
     <script defer src="script.js"></script>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
 </head>
 <body>
     <h1>Bookstore</h1>
+
     <h2>Books</h2>
-    <ul id="books-list"></ul>
+    <table id="books-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Price</th>
+                <th>Publication Date</th>
+                <th>Stock</th>
+            </tr>
+        </thead>
+        <tbody id="books-list"></tbody>
+    </table>
 
     <h2>Authors</h2>
-    <ul id="authors-list"></ul>
+    <table id="authors-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Birthdate</th>
+            </tr>
+        </thead>
+        <tbody id="authors-list"></tbody>
+    </table>
 
     <h2>Customers</h2>
-    <ul id="customers-list"></ul>
+    <table id="customers-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Address</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody id="customers-list"></tbody>
+    </table>
 
     <h2>Orders</h2>
-    <ul id="orders-list"></ul>
+    <table id="orders-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Customer ID</th>
+                <th>Date</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="orders-list"></tbody>
+    </table>
 
     <h2>Order Details</h2>
-    <ul id="orderdetails-list"></ul>
+    <table id="orderdetails-table">
+        <thead>
+            <tr>
+                <th>Order Details ID</th>
+                <th>Order ID</th>
+                <th>Book ID</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody id="orderdetails-list"></tbody>
+    </table>
 </body>
 </html>
